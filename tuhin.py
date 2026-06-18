@@ -1,1 +1,1 @@
-print("Fu")
+print("test")
